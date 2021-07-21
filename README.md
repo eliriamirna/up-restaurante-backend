@@ -2,7 +2,7 @@
 
 ## O que é este projeto?
 
-Este projeto é uma aplicação em Node - express que atua como servidor da aplicação.
+Este projeto é uma aplicação em Node - express que atua como servidor da [aplicação](https://github.com/eliriamirna/up-restaurante-frontend).
 
 ## O que ele faz?
 
